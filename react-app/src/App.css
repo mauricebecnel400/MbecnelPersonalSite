@@ -1,0 +1,109 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #ECF0F1;
+  height: 60px;
+  padding: 20px;
+  text-align: left;
+  border-bottom: 1px solid grey;
+  overflow: none;
+}
+
+.App-header h1{
+  margin: auto;
+  font-family: sans-serif;
+  color: #138d75;
+}
+
+#headerSub {
+  color: #5F6A6A
+}
+
+.profilepic {
+  margin-top: 5px;
+  float: left;
+
+}
+
+.ProfileAbout {
+  width: 95%;
+  height: 60%;
+  overflow: none;
+  display: flex;
+}
+
+.About {
+  background-color: white;
+  height: 100%;
+  padding: 30px;
+}
+.About h1 {
+  color: #138d75;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.About p {
+  color: #5F6A6A;
+  font-size: 22px;
+  float: left;
+  margin-top: 5px;
+  width: 100%;
+  top: 50px;
+}
+
+
+.Experiences {
+  margin-top: 10px;
+  width: 90vw;
+  overflow: none;
+}
+
+.jobs {
+  border: 1px solid;
+  padding: 5px;
+  box-shadow: 2px 5px #888888;
+}
+
+.Company {
+  display: flex;
+  border-bottom: 2px solid green;
+}
+
+.Companyname {
+  margin-left: 50px;
+}
+
+.JobDescription {
+  font-size: 20px;
+}
+
+.ProjectTiles {
+  display: flex;
+  align-content: center; 
+}
+
+.ProjectImage {
+  align-items: center;
+  padding-left: 60px; 
+}
+
+@media (max-width: 900px) {
+  .ProjectTiles {
+    flex-direction: column;
+    display: flex;
+  }
+  
+}
+
+.Toolbox {
+  color: grey;
+  border-bottom: 1px solid grey;
+}
+
+.Toolbox h2 {
+  color: #138d75;
+}
+

@@ -1,0 +1,32 @@
+{"Jobs" : [
+    {"Vital38": {
+        "Company_Name": "Vital 38 Media",
+        "Location": "Rohnert Park, CA",
+        "Title": "Web Developer",
+        "Date": "January 2017 - Present",
+        "Description": "Managed business development activities by acquiring new clients which resulted in a 50% increase in revenue. Designed WordPress Websites for clients by using strategies. Created strategic customized WordPress websites for customers by researching their target market, business needs, and marketing goals. Provided customized solutions through web development that automated business development processes which increased traffic to customer websites by an average of 20%."
+    },
+    "TheMacAdvantage" : {
+        "Company_Name": "The Mac Advantage",
+        "Location": "Rohnert Park, CA",
+        "Title": "Technician",
+        "Date": "August 2016 - Present",
+        "Description": "Provided technology solutions to customers by preforming diagnostics, repair, upgrades and data recovery for an average of 30 Mac computers a week. Implemented an inventory management system for repair parts that improved the company’s warehouse efficiency by 20%. Managed IT and front office customer support to drive customer satisfaction. Related the necessity of products and services to customers leading to additional sales ranging from $300-$3,000. Managed invoices daily using QuickBooks Software."
+    },
+    "KornerStoneTech" : {
+        "Company_Name": "Konerstone Technology Inc.",
+        "Location": "Los Angeles, CA",
+        "Title": "Information System Intern",
+        "Date": "May 2016 - August 2016",
+        "Description": "Automated companies business processes through building Task and Field-Update Workflows to achieve maximum efficiency. Supported 30% of Kornerstone’s clients with software installation and hardware setup. Presented ten in-person Microsoft CRM demos which resulted in 4 new customer contracts."
+    },
+    "Tilly's": {
+        "Company_Name": "Tilly's Clothing Store",
+        "Location": "Los Angeles, CA",
+        "Title": "Sales Associate",
+        "Date": "May 2015 - August 2015",
+        "Description": "Generated $1,000 of weekly revenue by providing personalized customer shopping experiences. Organized cashier’s cash handling procedures and inventory count processes to improve back end store management efficiency."
+    }
+}
+]
+}
